@@ -1,3 +1,6 @@
+# Expense Tracker App
+This application was made to learn and practice ReactJS, components followed that of [Brad Traversy](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker) through his tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
